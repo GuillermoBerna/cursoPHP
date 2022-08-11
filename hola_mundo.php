@@ -3,7 +3,7 @@
 echo "Hola Mundo uwu";
 
 //esto es practica de PHP, nunca lo habia usado XD 
-//codigo dentro del navegador no puede ser visto
+//con PHP codigo dentro del navegador no puede ser visto
 
 ?> 
 
